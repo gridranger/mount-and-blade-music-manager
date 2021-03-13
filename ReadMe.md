@@ -54,6 +54,8 @@ In each row four things can be found:
 * A button labeled `...` for browsing a new file. If you pick a new file from outside the mod's and the game's music directory, the file will be copied into one of them instantly.
 * A drop down list for setting the context (ie. battle) when the track should be played.
 
+![Screenshot](/.img/mbmm.png?raw=true)
+
 ## How to expand
 
 Currently only _Warband_ and _Caribbean!_ can be managed by MBMM but you can easily add the missing games or your favorite mods, by adding them to `types-??.xml` where ?? stands for the ISO 639-1 code of language you use.
@@ -63,6 +65,8 @@ Additional <types> tags can be added for each mod. For the Mount and Blade vanil
 ```<types game="Mount and Blade"></types>```
 
 Always try to find some unique string for the game attribute because if the value are found in the path of the module then it is identified automatically. If it is not found in the path then the program checks the selected mod's music.txt against all the different mods stored in the XML and finds the best fit.
+
+![Types example](/.img/types.PNG?raw=true)
 
 ## Disclaimer
 
