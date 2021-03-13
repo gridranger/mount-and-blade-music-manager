@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui>
+    <item id="module">Modul</item>
+    <item id="open">Kiválasztása</item>
+    <item id="save">Mentése</item>
+    <item id="exit">Kilépés</item>
+    <item id="application">Alkalmazás</item>
+    <item id="about">Névjegye</item>
+    <item id="ok">Oké</item>
+    <item id="cancel">Mégsem</item>
+    <item id="question">Kérdés</item>
+    <item id="noMusicTxt">A kiválasztott mappa nem tartalmaz music.txt állományt vagy Music mappát. Ha biztos benne, hogy ez egy valós Mount &amp; Blade modulmappa, létrehozhatom, ami hiányzik. Létrehozzam?</item>
+    <item id="businesscard">Névjegy</item>
+    <item id="by">Készítette:</item>
+    <item id="title">Fájlnév</item>
+    <item id="topic">Téma</item>
+    <item id="files">fájlok</item>
+    <item id="language">Nyelve</item>
+    <item id="none">(nincs)</item>
+    <item id="missingFiles">A music.txt-ben hivatkozott zenefájlok közül egy vagy több hiányzik a játék zenemappájából. Ezeket betöltés után megjelöltem törlésre. Tipp: Ha a fájl megtalálható másutt a számítógépen, a megjelölés eltávolítása után újbóli betallózással pótolható.</item>
+    <item id="missingFilesTitle">Hiányzó fájlok</item>
+    <item id="unsaved">Pár változást még nemmentettünk, és ha most bezárjuk a modult, ezek elvesznek. Végrehajtsam a modul bezárását?</item>
+    <item id="gametype_title">Információ</item>
+    <item id="gametype">A játék felismerésekor nem minden zenei témát sikerült azonosítani. Lehetséges, hogy ismeretlen modul került betöltésre. (Tipp: További játékváltozatok felvételéhez bővítsd a types-HU.xml-t.)</item>
+</ui>

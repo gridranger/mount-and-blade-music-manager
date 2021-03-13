@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui>
+    <item id="module">Module</item>
+    <item id="open">Select</item>
+    <item id="save">Commit</item>
+    <item id="exit">Exit</item>
+    <item id="application">Application</item>
+    <item id="about">About</item>
+    <item id="ok">Ok</item>
+    <item id="cancel">Cancel</item>
+    <item id="question">Question</item>
+    <item id="noMusicTxt">There is no file "music.txt" or folder "Music" in the selected folder. They can be created if you are sure that the selected folder is a Mount &amp; Blade module folder. Dou you wish them to be created?</item>
+    <item id="businesscard">About</item>
+    <item id="by">by</item>
+    <item id="title">Filename</item>
+    <item id="topic">Category</item>
+    <item id="files">files</item>
+    <item id="language">UI language</item>
+    <item id="none">(none)</item>
+    <item id="missingFiles">One or more music file referred in "music.txt" is missing and is marked to remove. Hint: I you have a copy of a missing file you can recover the entry by unchecking it's checkbox and browsing the existing copy.</item>
+    <item id="missingFilesTitle">Missing files</item>
+    <item id="unsaved">Some changes have not been saved. If you close this modul now these changes will be lost. Are you sure that you want to close the modul?</item>
+    <item id="gametype_title">Information</item>
+    <item id="gametype">Not all music types was identified. It may be caused by loading an unknown module. (Hint: Further modules can be added by editing types-EN.xml.)</item>
+</ui>

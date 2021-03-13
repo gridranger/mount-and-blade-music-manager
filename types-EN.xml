@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<games>
+    <types game="warband">
+        <item id="0 0">(missing, unkown or false ID)</item>
+        <item id="131072 131072">arena</item>
+        <item id="8388864 8388864">victorious</item>
+        <item id="8388866 8388866">victorious (Swadian, Vaegir)</item>
+        <item id="2097408 2097408">hostile nordok</item>
+        <item id="65536 65536">armorer</item>
+        <item id="16388 16447">infiltration (Khergit)</item>
+        <item id="16384 16384">infiltration (nautral)</item>
+        <item id="4194432 4194432">main menu</item>
+        <item id="7168 7168">fight</item>
+        <item id="7172 7231">fight as Khergit</item>
+        <item id="7176 7231">fight as Nord</item>
+        <item id="7184 7231">fight as Rhodok</item>
+        <item id="7170 7231">fight as Vaegir</item>
+        <item id="524288 598528">calm night</item>
+        <item id="262144 269312">siege</item>
+        <item id="266244 269375">ambushed by Khergit</item>
+        <item id="266248 269375">ambushed by Nord</item>
+        <item id="266256 269375">ambushed by Rhodok</item>
+        <item id="266272 269375">ambushed by Sarranid</item>
+        <item id="266240 269312">ambushed by neutral</item>
+        <item id="266241 269375">ambushed by Swadian</item>
+        <item id="266242 269375">ambushed by Vaegir</item>
+        <item id="256 256">ceremonial</item>
+        <item id="16777728 16777728">tavern</item>
+        <item id="65544 598591">travel (nord)</item>
+        <item id="65552 598591">travel (rhodok)</item>
+        <item id="65568 598591">travel (sarranid)</item>
+        <item id="65537 598591">travel (swadi)</item>
+        <item id="65538 598591">travel (vaegir)</item>
+        <item id="65536 598528">travel, great hall</item>
+        <item id="65540 598591">travel, great hall (khergit)</item>
+        <item id="73744 598591">town (rhodok)</item>
+        <item id="73732 598591">town (khergit)</item>
+        <item id="73736 598591">town (nord)</item>
+        <item id="73728 598528">town (neutral)</item>
+        <item id="73729 598591">town (swadi)</item>
+        <item id="73730 598591">town (vaegir)</item>
+        <item id="33028 33028">defeat by Khergit</item>
+        <item id="33025 33025">defeat by Swadian</item>
+        <item id="33024 33024">defeat or retreat</item>
+    </types>
+    <types game="caribbean">
+        <item id="0 0">(missing, unkown or false ID)</item>
+        <item id="4194432 4194432">main menu</item>
+        <item id="65536 65536">sailing</item>
+        <item id="256 256">ceremonial</item>
+        <item id="512 512">tavern</item>
+        <item id="1025 1025">battle 1</item>
+        <item id="1026 1026">battle 2</item>
+        <item id="1028 1028">battle 3</item>
+        <item id="1032 1032">naval battle</item>
+        <item id="8192 8192">cities and ports</item>
+    </types>
+</games>

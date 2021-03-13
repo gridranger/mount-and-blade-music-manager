@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<games>
+    <types game="warband">
+        <item id="0 0">(hiányzó, ismeretlen vagy hibás téma)</item>
+        <item id="131072 131072">aréna</item>
+        <item id="8388864 8388864">diadalmas</item>
+        <item id="8388866 8388866">diadalmas (swadi, vaegir)</item>
+        <item id="2097408 2097408">ellenséges nordok</item>
+        <item id="65536 65536">fegyverkovács</item>
+        <item id="16388 16447">felderítés (khergit)</item>
+        <item id="16384 16384">felderítés (semleges)</item>
+        <item id="4194432 4194432">főmenü</item>
+        <item id="7168 7168">harc</item>
+        <item id="7172 7231">harc a Khergit birodalom oldalán</item>
+        <item id="7176 7231">harc a Nord birodalom oldalán</item>
+        <item id="7184 7231">harc a Rhodok birodalom oldalán</item>
+        <item id="7170 7231">harc a Vaegir birodalom oldalán</item>
+        <item id="524288 598528">nyugodt éjszaka</item>
+        <item id="262144 269312">ostrom</item>
+        <item id="266244 269375">rajtaütés (khergit)</item>
+        <item id="266248 269375">rajtaütés (nord)</item>
+        <item id="266256 269375">rajtaütés (rhodok)</item>
+        <item id="266272 269375">rajtaütés (sarranid)</item>
+        <item id="266240 269312">rajtaütés (semleges)</item>
+        <item id="266241 269375">rajtaütés (swadi)</item>
+        <item id="266242 269375">rajtaütés (vaegir)</item>
+        <item id="256 256">szomorú és ünnepélyes</item>
+        <item id="16777728 16777728">taverna</item>
+        <item id="65544 598591">utazás (nord)</item>
+        <item id="65552 598591">utazás (rhodok)</item>
+        <item id="65568 598591">utazás (sarranid)</item>
+        <item id="65537 598591">utazás (swadi)</item>
+        <item id="65538 598591">utazás (vaegir)</item>
+        <item id="65536 598528">utazás, lovagterem</item>
+        <item id="65540 598591">utazás, lovagterem (khergit)</item>
+        <item id="73744 598591">város (rhodok)</item>
+        <item id="73732 598591">város (khergit)</item>
+        <item id="73736 598591">város (nord)</item>
+        <item id="73728 598528">város (semleges)</item>
+        <item id="73729 598591">város (swadi)</item>
+        <item id="73730 598591">város (vaegir)</item>
+        <item id="33028 33028">vereség (khergit hadseregtől)</item>
+        <item id="33025 33025">vereség (swadi hadseregtől)</item>
+        <item id="33024 33024">vereség és visszavonulás</item>
+        <item id="33024 33024">vereség és visszavonulás</item>
+    </types>
+    <types game="caribbean">
+        <item id="0 0">(hiányzó, ismeretlen vagy hibás téma)</item>
+        <item id="4194432 4194432">főmenü</item>
+        <item id="65536 65536">hajózás</item>
+        <item id="256 256">szomorú és ünnepélyes</item>
+        <item id="512 512">csapszék</item>
+        <item id="1025 1025">csata 1</item>
+        <item id="1026 1026">csata 2</item>
+        <item id="1028 1028">csata 3</item>
+        <item id="1032 1032">tengeri összecsapás</item>
+        <item id="8192 8192">kikötő</item>
+    </types>
+</games>
