@@ -1,6 +1,6 @@
-# Mount & Blade Music Manager
+# Mount & Blade Music Manager (2014)
 
-Mount and Blade was an interesting feudal combat simulator with incredible modding capabilities. You also could add your favourite musics to any of the games (modules) using the Mount and Blade engine. The situations when you want to listen the music was also tunable. So you could have different musics for fighting on then field and other ones for sieges, also other for visiting towns, etc.
+Mount and Blade was an interesting feudal combat simulator with incredible modding capabilities. You also could add your favourite musics to any of the games (modules) using the Mount and Blade engine. The context of the music was also tunable. So you could have different musics for fighting on the field and other ones for sieges, also other ones for visiting towns, etc.
 
 ## Features
 
@@ -70,4 +70,4 @@ Always try to find some unique string for the game attribute because if the valu
 
 ## Disclaimer
 
-I uploaded it github as nostalgia. Back then when I wrote it, I did not care about PEP8, flake8 checks, unit testing or clean code. I would write it by following the standards and using TTD, if I would start the development now. Anyway it does the job. Have fun with it. :)
+I uploaded it to github as nostalgia. Back in 2014, when I wrote it, I did not care about PEP8, flake8 checks, unit testing or clean code. I would write it by following the standards and using TTD, if I would start the development now. Anyway it does the job. Have fun with it. :)
